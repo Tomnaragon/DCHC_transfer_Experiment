@@ -2,6 +2,7 @@
 190829_deeplabcut_data/
 190909_DCHC_transfer_Platyusa/
 190909_DCHC_transfer_Sceptobius/
+Deeplabcut_data/*/*
 *.svg
 *.png
 .ipynb_checkpoints/
