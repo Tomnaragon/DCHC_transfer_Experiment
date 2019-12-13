@@ -1,4 +1,4 @@
-﻿#GCMS data for experiment recorded on 191113.,,,,,,,,,,,,,
+﻿#GCMS data for experiment recorded on 191115.,,,,,,,,,,,,,
 #Type refers to deuterium labelled ants (L) vs unlabelled ants (U),,,,,,,,,,,,,
 #Outlier: include Beetle or ant crushed/Beetle or ant escaped from well/Ant not coated in any CHCs (Y); Beetle chomped (B); ant chomped (A); normal run (N),,,,,,,,,,,,,
 Species,WellNumber,Peak ID,Ret Time,Start Tm,End Tm,m/z,Area,Area Percent,Height,Height Percent,A/H,Type,Outlier
