@@ -3,6 +3,7 @@
 190909_DCHC_transfer_Platyusa/
 190909_DCHC_transfer_Sceptobius/
 Deeplabcut_data/*/*
+!Deeplabcut_data/Well_positions/
 *.svg
 *.png
 .ipynb_checkpoints/
