@@ -1,6 +1,6 @@
-﻿#GCMS data for experiment recorded on 191021,,,,,,,,,,,,,
+#GCMS data for experiment recorded on 191021,,,,,,,,,,,,,
 #Type refers to deuterium labelled ants (L) vs unlabelled ants (U),,,,,,,,,,,,,
-"#Outlier: Beetle or ant crushed/Beetle or ant escaped from well/Ant not coated in any CHCs (Y), Beetle chomped (B), ant chomped (A), normal run (N)",,,,,,,,,,,,,
+#Outlier: Beetle or ant crushed/Beetle or ant escaped from well/Ant not coated in any CHCs (Y); Beetle chomped (B); ant chomped (A); ant injured from the beginning(AI); beetle injured/dessicates early(BI); normal run (N),,,,,,,,,,,,,
 Species,WellNumber,Peak ID,Ret Time,Start Tm,End Tm,m/z,Area,Area Percent,Height,Height Percent,A/H,Type,Outlier
 L,1,C18,7.431,7.405,7.45,TIC,4896180,98.48,5663338,98.97,0.86,L,N
 L,1,D50C24,9.494,9.475,9.525,TIC,47516,0.96,48341,0.84,0.98,L,N
@@ -20,12 +20,12 @@ L,3,D62C30,12.325,12.32,12.365,TIC,10715,0.24,10963,0.21,0.98,U,N
 P,3,C18,7.432,7.405,7.45,TIC,4449746,99.72,5100263,99.72,0.87,U,N
 P,3,D50C24,9.525,9.475,9.525,TIC,3254,0.07,3217,0.06,1.01,U,N
 P,3,D62C30,12.365,12.32,12.365,TIC,9064,0.2,11025,0.22,0.82,U,N
-L,4,C18,7.431,7.405,7.45,TIC,4790390,97.09,5591077,98.04,0.86,L,I
-L,4,D50C24,9.494,9.475,9.525,TIC,90875,1.84,86046,1.51,1.06,L,I
-L,4,D62C30,12.342,12.32,12.365,TIC,52490,1.06,25796,0.45,2.03,L,I
-P,4,C18,7.431,7.405,7.45,TIC,4504266,99.78,5058363,99.72,0.89,L,I
-P,4,D50C24,9.525,9.475,9.525,TIC,987,0.02,1156,0.02,0.85,L,I
-P,4,D62C30,12.365,12.32,12.365,TIC,9121,0.2,13091,0.26,0.7,L,I
+L,4,C18,7.431,7.405,7.45,TIC,4790390,97.09,5591077,98.04,0.86,L,AI
+L,4,D50C24,9.494,9.475,9.525,TIC,90875,1.84,86046,1.51,1.06,L,AI
+L,4,D62C30,12.342,12.32,12.365,TIC,52490,1.06,25796,0.45,2.03,L,AI
+P,4,C18,7.431,7.405,7.45,TIC,4504266,99.78,5058363,99.72,0.89,L,AI
+P,4,D50C24,9.525,9.475,9.525,TIC,987,0.02,1156,0.02,0.85,L,AI
+P,4,D62C30,12.365,12.32,12.365,TIC,9121,0.2,13091,0.26,0.7,L,AI
 L,5,C18,7.433,7.405,7.45,TIC,4641317,99.79,5145918,99.85,0.9,U,N
 L,5,D50C24,9.525,9.475,9.525,TIC,261,0.01,168,0,1.55,U,N
 L,5,D62C30,12.365,12.32,12.365,TIC,9390,0.2,7763,0.15,1.21,U,N
