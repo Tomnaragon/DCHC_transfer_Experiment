@@ -1,0 +1,52 @@
+﻿#Outlier data for video collected on 191016. Used wrong solvent for extraction so there is no GCMS data.,,,,,,,,,,,,,
+#Type refers to deuterium labelled ants (L) vs unlabelled ants (U),,,,,,,,,,,,,
+#Outlier: Beetle or ant crushed/Beetle or ant escaped from well/Ant not coated in any CHCs (Y); Beetle chomped (B); ant chomped (A); ant injured from the beginning(AI); beetle injured/dessicates early(BI); normal run (N),,,,,,,,,,,,,
+Species,WellNumber,Peak ID,Ret Time,Start Tm,End Tm,m/z,Area,Area Percent,Height,Height Percent,A/H,Type,Outlier
+L,1,,,,,,,,,,,,AI
+L,1,,,,,,,,,,,,AI
+L,1,,,,,,,,,,,,AI
+P,1,,,,,,,,,,,,AI
+P,1,,,,,,,,,,,,AI
+P,1,,,,,,,,,,,,AI
+L,2,,,,,,,,,,,,AI
+L,2,,,,,,,,,,,,AI
+L,2,,,,,,,,,,,,AI
+P,2,,,,,,,,,,,,AI
+P,2,,,,,,,,,,,,AI
+P,2,,,,,,,,,,,,AI
+L,3,,,,,,,,,,,,AI
+L,3,,,,,,,,,,,,AI
+L,3,,,,,,,,,,,,AI
+P,3,,,,,,,,,,,,AI
+P,3,,,,,,,,,,,,AI
+P,3,,,,,,,,,,,,AI
+L,4,,,,,,,,,,,,N
+L,4,,,,,,,,,,,,N
+L,4,,,,,,,,,,,,N
+P,4,,,,,,,,,,,,N
+P,4,,,,,,,,,,,,N
+P,4,,,,,,,,,,,,N
+L,5,,,,,,,,,,,,N
+L,5,,,,,,,,,,,,N
+L,5,,,,,,,,,,,,N
+P,5,,,,,,,,,,,,N
+P,5,,,,,,,,,,,,N
+P,5,,,,,,,,,,,,N
+L,6,,,,,,,,,,,,AI
+L,6,,,,,,,,,,,,AI
+L,6,,,,,,,,,,,,AI
+P,6,,,,,,,,,,,,AI
+P,6,,,,,,,,,,,,AI
+P,6,,,,,,,,,,,,AI
+L,7,,,,,,,,,,,,AI
+L,7,,,,,,,,,,,,AI
+L,7,,,,,,,,,,,,AI
+P,7,,,,,,,,,,,,AI
+P,7,,,,,,,,,,,,AI
+P,7,,,,,,,,,,,,AI
+L,8,,,,,,,,,,,,AI
+L,8,,,,,,,,,,,,AI
+L,8,,,,,,,,,,,,AI
+P,8,,,,,,,,,,,,AI
+P,8,,,,,,,,,,,,AI
+P,8,,,,,,,,,,,,AI
